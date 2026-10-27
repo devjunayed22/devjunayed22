@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junayed Mohammad Omar Nahian</h1>
+<img src="https://i.ibb.co.com/JW2xgFZx/Gemini-Generated-Image-gc3zu5gc3zu5gc3z.jpg" alt="Web designer WordPress Developer Portfolio Banner" border="0">
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjunayed22&label=Profile%20views&color=0e75b6&style=flat" alt="devjunayed22" /> </p>
